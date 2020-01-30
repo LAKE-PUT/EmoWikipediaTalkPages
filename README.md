@@ -22,6 +22,6 @@
 |                              |ul. Piotrowo 3
 |                              |60-965 Poznan, Poland
 |Data accessibility            |Repository name: EmoWikipediaTalkPages                                                  |
-|                              |Data identification number:  ...                                                        |
+|                              |Data identification number: <https://doi.org/10.5281/zenodo.3631670>                    |
 |                              |Direct URL to data: <https://github.com/LAKE-PUT/EmoWikipediaTalkPages>                 |
 |Related research article      |Maksymilian Marcinowski, Agnieszka Ławrynowicz, *On Emotions in Conflict Wikipedia Talk Pages Discussions*, submitted to ICWE2020 Conference                                                                          |
