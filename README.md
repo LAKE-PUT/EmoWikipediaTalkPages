@@ -9,7 +9,7 @@
 |Type of data                  |Text files                                                             |
 |Description of data collection        |Annotations of discussions from [Conversations Gone Awry](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit/blob/master/datasets/conversations-gone-awry-corpus/awry.README.v1.00.txt) dataset obtained with a survey filled in by the respondents with the use of Plutchik's model, extended with emotions scores calculated on the basis of [EmoWordNet](http://www.oma-project.com/ArSenL/EmoWordNet1.0.txt) lexicon             |
 |Data format                   |JSON (table-oriented), CSV                                                              |
-|Parameters for data collection|Total count of annotations (624), total count of annotated triplets (208), total count of distinct conversations (151), count of posts in conflict discussions (249), count of posts in non-conflict discussions (375)     |
+|Parameters for data collection|Total count of annotations (624), total count of annotated triplets (208), total count of distinct conversations (151), count of posts in conflict discussions (249), count of posts in non-conflict discussions (375), parameters for annotators agreement: count of posts annotated unanimously (36), count of posts annotated with three different emotions (340)    |
 |Description of dataset fields|**text** - content of the post, type: string                                             |
 |                             |**conv_id** - id of the conversation from which the post is derived, type: string        |
 |                             |**conv_title** - title of the conversation from which the post is derived, type: string  |
