@@ -13,7 +13,7 @@
 |Description of dataset fields|**text** - content of the post, type: string                                             |
 |                             |**conv_id** - id of the conversation from which the post is derived, type: string        |
 |                             |**conv_title** - title of the conversation from which the post is derived, type: string  |
-|                             |**conflict** - description whether the discussion from which the comment comes was conflict, type: boolean|
+|                             |**conflict** - description whether the discussion from which the comment comes was conflict, i.e. contained at least one comment with personal attack, type: boolean|
 |                             |**no.** - order number of the post in the conversation, type: integer                    |
 |                             |**plutchik_emotion(1/2/3)** - three fields with emotions from the Plutchik's model the post was annotated with, each post was annotated by three respondents, type: string                                              |
 |                             |**emowordnet_ * _score** - eight fields with scores of emotions (afraid, amused, angry, annoyed, happy, don't care, inspired, sad) calculated for the post basing on EmoWordNet lexicon, type: number                           |
